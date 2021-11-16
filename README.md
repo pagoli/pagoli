@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pagoli or Olivia.
-- 👀 I’m interested in Languages, Politics, History, Art & Culture and Science Literature.
+- 👀 I’m interested in Languages, Politics, History, Art & Culture and Science Literature - and when I still had time music and concerts.
 - 🌱 I’m currently learning Web Developement and took part in Stanford's Code in Place Course 2021
 - 📫 How to reach me ... in best case, never.
 
