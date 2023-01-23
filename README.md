@@ -11,14 +11,21 @@ long-desired career. I am a **Foreign Language Assistant** and worked in Spain a
 
 Technologies: **NextJs with TailwindCSS and DaisyUI, MongoDB, AVJ, SWR**, Map implementation via **###** and Code Editor with **###**; Deployment with **vercel**.
 
+[Code Repository](https://github.com/natasha8/DEV-SHED)
+
 ### smARTguess (in development)
 [smARTguess](https://github.com/pagoli) is a website for art lovers to challenge their knowledge in some quizzes surrounding the art world. The main idea was to display the world's most expensive paintings and to get further information about the artworks.
 
 Technologies: **NextJs with TailwindCSS, MongoDB, Mongoose**, React-Router-Dom,; Deployment with **vercel**.
+
+[Code Repository](https://github.com/pagoli/smArtApp)
 <!--
 ### My Portfolio Site
 ![my website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)
+[Code Repository](https://github.com/natasha8/DEV-SHED)
 -->
+### All my repositories:
+[Code Repository](https://github.com/pagoli?tab=repositories)
 
 #### My Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
