@@ -25,7 +25,7 @@ Technologies: **NextJs with TailwindCSS, MongoDB, Mongoose**, React-Router-Dom,;
 [Code Repository](https://github.com/natasha8/DEV-SHED)
 -->
 ### All my repositories:
-[Code Repository](https://github.com/pagoli?tab=repositories)
+[Click here](https://github.com/pagoli?tab=repositories)
 
 #### My Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
