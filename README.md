@@ -19,6 +19,14 @@ Technologies: **NextJs with TailwindCSS and DaisyUI, MongoDB, AVJ, SWR**, Map im
 Technologies: **NextJs with TailwindCSS, MongoDB, Mongoose**, React-Router-Dom,; Deployment with **vercel**.
 
 [Code Repository](https://github.com/pagoli/smArtApp)
+
+### cooKING&Fun (easy recipes app)
+[cooKING&Fun](https://pagoli.github.io/easy-recipe-app/) is a simple recipe search website. Get inspired by easy, quickly accessible recipy ideas. It uses the Spoonacular API. To reduce the limited free API Tokens, I implemented some localData.
+
+Technologies: **ReactJS with styled-components**, React-Router-Dom V.6, framer-motion, styled-components with GlobalStyles, devices for responsivity and variables; Deployment with **Github-pages**.
+
+[Code Repository](https://github.com/pagoli/easy-recipe-app/)
+
 <!--
 ### My Portfolio Site
 ![my website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)
