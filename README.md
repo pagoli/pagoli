@@ -9,7 +9,7 @@ long-desired career. I am a **Foreign Language Assistant** and worked in Spain a
 ### DevShed (Final Project)
 [DevShed](https://devshed.vercel.app/) is a Developers Community, that allows you to meet new people locally or worldwide, with the same interests in programming as you. Via the implemented Map feature, you can easily find people nearby. You can chat, code together on-site via a code editors, find recent events and jobs or just post about what's on your mind.
 
-Technologies: **NextJs with TailwindCSS and DaisyUI, MongoDB, AVJ, SWR**, Map implementation via **###** and Code Editor with **###**; Deployment with **vercel**.
+Technologies: **NextJs with TailwindCSS and DaisyUI, MongoDB, AVJ, SWR**, Map implementation via **MapBox** and Code Editor with **Monaco**; Deployment with **vercel**.
 
 [Code Repository](https://github.com/natasha8/DEV-SHED)
 
